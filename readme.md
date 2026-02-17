@@ -51,4 +51,4 @@ Core Competencies Demonstrated
 |   |  |
 |---|--|
 |configuration |![database sample ](/source/imagens/reg1.png)| 
-|schema and waveform |![comparative sample ](/source/imagens/reg3.png)| 
+|scheme and waveform |![comparative sample ](/source/imagens/reg3.png)| 
